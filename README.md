@@ -1,8 +1,8 @@
-README
+#README#
 
-<h1>采花大道数据同步工具</h1>
+##采花大道数据同步工具##
 
-<h2>配置系统</h2>
+###配置系统###
 1.所有的配置文件在conf/config.py中
 OldDB节点配置旧数据库地址
 newDB配置新数据库地址
@@ -16,5 +16,5 @@ request
 tornado
 
 
-<h2>运行系统</h2>
+###运行系统###
 python chdd/core/DBCopy.py
